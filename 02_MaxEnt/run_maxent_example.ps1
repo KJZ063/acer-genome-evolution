@@ -1,7 +1,7 @@
 <#
 用途 | Purpose:
-- 批量运行当前配置中的未来情景 MaxEnt 投影。
-- Batch-run the configured future-scenario MaxEnt projections.
+- 批量运行当前配置中的 MaxEnt。
+- Batch-run MaxEnt projections.
 输入 | Inputs:
 - occurrence 与 background CSV、未来情景环境层目录、maxent.jar，以及脚本中读取的路径环境变量。
 - Occurrence and background CSV files, future-scenario environmental layers, maxent.jar, and the path environment variables read by the script.
