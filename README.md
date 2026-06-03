@@ -18,7 +18,6 @@ This directory provides the public code release and selected example resources f
 
 - This public release does not bundle all raw inputs, large intermediate files, third-party databases, or restricted resources.
 - Users must prepare `maxent.jar`, MaxEnt input data, WGT-related external results, and any other non-distributed files on their own.
-- To keep the release clean and appropriate for public distribution, editorial correspondence, response letters, and manuscript drafts are not included.
 
 ## Requirements
 
