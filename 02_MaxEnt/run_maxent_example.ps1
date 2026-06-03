@@ -52,7 +52,7 @@ foreach ($run in $runs) {
         "projectionlayers=$projectionLayers",
         "samplesfile=$samplesFile",
         "environmentallayers=$backgroundFile",
-        "replicates=3", "writeplotdata", "appendtoresultsfile", "autorun", "threads=12"
+        "replicates=10", "writeplotdata", "appendtoresultsfile", "autorun", "threads=12"
     )
 
     & java @arguments
