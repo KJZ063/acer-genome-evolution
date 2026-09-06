@@ -1,8 +1,8 @@
-# Acer Research Release
+# Methods for Predicting Suitable Habitats of Selected Species in _Acer_ and _Dipteronia_ Release
 
 ## Overview
 
-This directory provides the public code release and selected example resources for Acer-related analyses. It is intended for users who want to inspect, reproduce, or extend the workflows locally.
+This dataset provides the analysis code and example resources corresponding to the study entitled “Genomic differences between closely related endangered and widespread species in genera Acer and Dipteronia.” It is intended to facilitate local inspection, reproduction, and extension of the associated analytical workflows.
 
 ## What Is Included
 
